@@ -1,0 +1,46 @@
+_repo: La-Salle-and-the-Discovery-of-the-Great-WestFrance-and-England-in-North-America_40143
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+description: <p>Ren&eacute;-Robert Cavelier de La Salle (1643-1687), one of the most
+  legendary explorers of the New World, is best known for claiming the entire Louisiana
+  Territory for France in 1682. Two years later, he was given the order to colonize
+  and govern the great expanse of territory between Lake Michigan and the Gulf of
+  Mexico. He set out from France with four ships but never reached his destination.
+  Landing somewhere in East Texas, he and his men were ravaged by disease, weakened
+  by hard labor, even gored by buffalo as they tried to locate the mouth of the Mississippi
+  River, which was obscured by the sandy sameness of the Gulf coastline. In 1687,
+  on a third attempt to locate the river by an overland route, La Salle was murdered
+  by his own men in the desolate country between the Trinity and Brazos rivers. His
+  body was never found.<br><br>First published in 1869, La Salle and the Discovery
+  of the Great West is the vivid, richly detailed story of that final grim expedition,
+  told by...
+gutenberg_issued: '2012-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'La Salle, Robert Cavelier, sieur de, 1643-1687'
+- !lcsh 'Explorers -- France -- Biography'
+- !lcsh 'Mississippi River -- Discovery and exploration'
+- !lcsh 'Explorers -- America -- Biography'
+- !lcsh 'Mississippi River Valley -- Discovery and exploration'
+- !lcc 'F1001'
+- !lcsh 'New France -- Discovery and exploration'
+title: 'France and England in N America, Part III: La Salle, Discovery of The Great
+  West'
+url: http://www.gutenberg.org/ebooks/40143
